@@ -1,0 +1,5 @@
+4
+Search-Exact,Professors,ProfID,3396
+Search-Exact,Students,StudID,0
+Search-Range,Students,Score,3,4
+Join,Professors,Students
